@@ -1,0 +1,372 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The peace of Jerusalem A sermon preac'd before the right honourable the Lord Mayor and aldermen of the City of London. At S Paul's Cathedral, July 31. 1698. By R. Wykes chaplain to the right honourable John Lord Cartaret, and lecturer of St. Mildred Poultrey, London.</title>
+            <author>Wykes, R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67212</idno>
+            <idno type="STC">Wing W3764</idno>
+            <idno type="STC">ESTC R217196</idno>
+            <idno type="EEBO-CITATION">99828893</idno>
+            <idno type="PROQUEST">99828893</idno>
+            <idno type="VID">33326</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67212)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33326)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1962:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The peace of Jerusalem A sermon preac'd before the right honourable the Lord Mayor and aldermen of the City of London. At S Paul's Cathedral, July 31. 1698. By R. Wykes chaplain to the right honourable John Lord Cartaret, and lecturer of St. Mildred Poultrey, London.</title>
+                  <author>Wykes, R.</author>
+               </titleStmt>
+               <extent>[6], 22, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Parkhurst at the Bible and Three Corwns at the lower end of Cheapside, near Mercers-Chapel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A sermon preach'd before the Lord Mayor, July 31. 1698.</note>
+                  <note>With a final advertisement leaf.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33326:1"/>
+            <pb facs="tcp:33326:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Peace of Jeruſalem.</hi>
+            </p>
+            <p>A SERMON Preach'd before the RIGHT HONOURABLE THE Lord Mayor AND ALDERMEN OF THE City of <hi>LONDON.</hi>
+            </p>
+            <p>At S <hi>Paul</hi>'s Cathedral, <hi>July</hi> 31. 1698.</p>
+            <p>By <hi>R. WYKES</hi> Chaplain to the Right Honourable <hi>JOHN</hi> Lord <hi>Cartaret,</hi> and Lecturer of St. <hi>Mildred Poultrey, London.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tho. Parkhurſt</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> at the lower End of <hi>Cheapſide,</hi> near <hi>Mercers-Chapel.</hi> 1698.</p>
+         </div>
+         <div type="dedication">
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+            <pb facs="tcp:33326:2"/>
+            <p>it was none of my Duty to diſpute that, ſo whom of right does it belong to, but to your Lordſhip and your Brethren, who were pleaſed to joyn their Commands with yours.</p>
+            <p>
+               <hi>The Peace of Jeruſalem</hi> is the important Subject; and what way ſo proper to ſecure that, and prevent the Nations Ruin, as Prayer to the Almighty, who alone can preſerve us, <g ref="char:V">Ʋ</g>nion in his Worſhip, the better to prevail with him, and ſuch a Spirit running thro' the whole Body Politick, as actuates the Prayer and promotes the <g ref="char:V">Ʋ</g>nion.</p>
+            <p>
+               <hi>My Lord!</hi>
+            </p>
+            <p>It is Matter of Joy to all good Men to find Perſons of your Autho<g ref="char:EOLhyphen"/>rity and Example entirely of theſe Sentiments. 'Tis a promiſing Preſage of Good to the City, and of Welfare
+<pb facs="tcp:33326:2"/> to our Country, when the Chief Rulers themſelves do at once pray for the Peace of <hi>Jeruſalem,</hi> and without regard to any Party, wiſh all may proſper that love it, when they ſcorn to be ſo far miſguided, as to act the Buſineſs of a Faction, or ſuffer any private Intereſts to miſlead their Af<g ref="char:EOLhyphen"/>fections from the Common Good, when in a word, they wiſh for and endeavour an <g ref="char:V">Ʋ</g>niverſal <g ref="char:V">Ʋ</g>nion in Religion, and in the mean time act as if there were one. For as this ſhews the Publick Spirit in all the parts of it, ſo where this governs in the Magiſtrates, even tho' the Nation be ripe for Vengeance, yet for their ſakes Heaven it ſelf ſhall with-hold <hi>the Stroak,</hi> and ſhower down Bleſſings on the Publick.</p>
+            <p>That our Deſtruction may be averted, and Peace be ſtill in our <hi>Jeruſalem,</hi>
+               <pb facs="tcp:33326:3"/> 
+               <hi>the Almighty continue a Succeſſion of ſuch Magiſtrates in that Chair which your Lordſhip ſo honourably fills. This is the moſt Affectionate Prayer of,</hi>
+            </p>
+            <closer>
+               <salute>My Lord!</salute>
+               <signed>Your Lordſhips moſt obliged and very humble Servant, R. WYKES.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:33326:3"/>
+            <head>The Peace of Jeruſalem.</head>
+            <epigraph>
+               <bibl>PSALM cxxii. 6.</bibl>
+               <q>
+                  <hi>Pray for the Peace of</hi> Jeruſalem: <hi>they ſhall proſper that love thee.</hi>
+               </q>
+            </epigraph>
+            <p>SO amiable a thing is Peace, and ſo much the delight of Mankind, that whether we be conſidered as Sociable Creatures, or as Chri<g ref="char:EOLhyphen"/>ſtians, it muſt be acknowledg'd, our very firſt Wiſh and Deſire, and that which we may be allow'd to be very cordial and ſincere in, if in any thing.</p>
+            <p>'Tis the Gift of Heaven, and the Joy and Preſer<g ref="char:EOLhyphen"/>vation of the Earth, Societies and Religion, all owe their Being and Well-being to it; for without Peace Societies would disband and fly aſunder, and where ſuch a diſ-union is, farewel to <note n="*" place="margin">I mean to the P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>lick Pro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſion of it a City Kingdom</note> Religion.</p>
+            <p>The Queſtion then here is, not whether we muſt pray, or whether we muſt pray for Peace or not, but why we muſt pray for the Peace of <hi>Jeruſalem?</hi> And this will introduce two other Quaeries of e<g ref="char:EOLhyphen"/>qual importance, Whom of us does it belong to, to pray for the Peace of <hi>Jeruſalem?</hi> And then, how it is we muſt pray for the Peace of <hi>Jeruſalem?</hi> All this ſeems imply'd in this Exhortation of the Royal Pſalmiſt, <hi>Pray for the Peace of Jeruſalem.</hi>
+            </p>
+            <pb facs="tcp:33326:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="1" facs="tcp:33326:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:33326:5"/>
+            <p>The Motives to this purpoſe follow, they ſhall proſper that do this,</p>
+            <list>
+               <item>I. Here, in this World.</item>
+               <item>II. Hereafter, in a better.</item>
+            </list>
+            <p n="1">I. To begin with the firſt Quaery, Why we are to pray for the Peace of <hi>Jeruſalem.</hi>
+            </p>
+            <p>This very <hi>Pſalm</hi> gives us two Reaſons upon this Account.</p>
+            <p n="1">1. Becauſe in <hi>Jeruſalem</hi> was the Temple of the God of <hi>Iſrael:</hi> where not only the Inhabitants worſhip'd daily, but all the Men of <hi>Iſrael</hi> from all parts of the Land were to aſſemble Thrice in the Year to worſhip the Lord: for ſo we read <hi>Deut. 16. 16, 17. Three times in the year ſhall all thy Males ap<g ref="char:EOLhyphen"/>pear before the Lord thy God, in the place which he ſhall chuſe; in the Feaſt of unleavened Bread, in the Feaſt of Weeks, and in the Feaſt of Tabernacles: And they ſhall not appear before the Lord empty. Every Man ſhall give as he is able, according to the Bleſſing of the Lord thy God, which he hath given thee.</hi> Je<g ref="char:EOLhyphen"/>ruſalem <hi>is built as a City that is at <g ref="char:V">Ʋ</g>nity in it ſelf:</hi> (Verſes 3, 4. of this <hi>Pſalm) Whither the Tribes go up, the Tribes of the Lord, unto the Teſtimony of</hi> Iſrael, <hi>to give thanks unto the Name of the Lord. Pray</hi> ye therefore <hi>for the Peace of</hi> Jeruſalem.</p>
+            <p n="2">2. Becauſe in <hi>Jeruſalem</hi> was the Civil Judicature erected. There the Archives of the Kingdom were depoſited; there the Rights of the People were reſolved; there their Liberties and Properties were maintained; and thither they had recourſe upon all Emergencies, where their Monarch on his
+<pb n="3" facs="tcp:33326:5"/> Throne, with his Parliament about him, enacted Laws for the Security of the whole, and the ſe<g ref="char:EOLhyphen"/>veral Courts of Judicature explain'd them to 'em, for their good. There are ſet Thrones of Judg<g ref="char:EOLhyphen"/>ment: <hi>The Thrones of the Houſe of</hi> David, <hi>v. 5. Pray</hi> ye therefore <hi>for the Peace of</hi> Jeruſalem. Theſe were the two Reaſons why holy <hi>David</hi> ſo earneſt<g ref="char:EOLhyphen"/>ly exhorted his People to pray for the Peace of that great Metropolis.</p>
+            <p>There God's Worſhip was kept up in its Pri<g ref="char:EOLhyphen"/>mitive Purity; there reſided <hi>David</hi> himſelf, <hi>a Man after God's own heart,</hi> whom the People made their Court to, and were preſerv'd accord<g ref="char:EOLhyphen"/>ing to Law, in all their Rights, both Sacred and Civil. This was <hi>Jeruſalem,</hi> where all <hi>Iſrael</hi> were ob<g ref="char:EOLhyphen"/>liged <hi>to Worſhip the Lord in his Beauty of Holi<g ref="char:EOLhyphen"/>neſs;</hi> and where alone they cou'd have redreſs for their Civil Grievances. Well might a Place of this vaſt Importance, be deem'd as a Subject worthy of their heartieſt Prayers, and moſt ſo<g ref="char:EOLhyphen"/>lemn Entreaties to Heaven!</p>
+            <p>
+               <hi>Peace be within thy Walls, and Plenteouſneſs within thy Palaces: For my Brethren and Com<g ref="char:EOLhyphen"/>panions ſakes, I will now ſay, Peace be within thee. Becauſe of the Houſe of the Lord our God, I will ſeek thy good:</hi> are holy <hi>David</hi>'s own words, Raptures all, Elegancies which alone ſo Noble a Subject cou'd Inſpire! He firſt prays himſelf for the Peace of <hi>Jeruſalem,</hi> then Exhorts others to joyn with him: and then, as knowing without Endeavours Pray<g ref="char:EOLhyphen"/>ers avail not, he cloſes the Scene with Reſolu<g ref="char:EOLhyphen"/>tions worthy of him. <hi>For my Brethren and</hi>
+               <pb n="4" facs="tcp:33326:6"/> 
+               <hi>Companions ſake, I will now ſay, Peace be within thee. Becauſe of the Houſe of the Lord our God, I will ſeek to do thee good.</hi>
+            </p>
+            <p>What a pleaſing hint is here to change the Scene, and imagine this of ours the <hi>Jeruſalem</hi> in the Text. In all Points, both of a Civil and Religious Nature, it is the ſame, nay, far more excellent; that being under <hi>Moſes,</hi> this under Chriſt. One thing indeed alters it to appearance, the Obligation to Worſhip at <hi>Je<g ref="char:EOLhyphen"/>ruſalem</hi> thrice in the Year for all the Men of the Land, there being no ſuch thing under the Goſpel enjoyned here now. But if this was an Excellency, as it was only Typical and Pe<g ref="char:EOLhyphen"/>culiar; ſo when we view this of ours, as the Grand Empory of the World, the Common Mart of both <hi>Indies,</hi> and the Wonder and A<g ref="char:EOLhyphen"/>ſtoniſhment of all Nations, the two former Characters <hi>Jeruſalem</hi> of old being in a great meaſure ſhort of, tho' of the latter it was not, as being <hi>great amongſt the Nations, and Princeſs amongſt the Provinces</hi> 
+               <note n="*" place="margin">Lam. 1. 1.</note> When we conſider this Metropolis of ours, profeſſing the beſt Religi<g ref="char:EOLhyphen"/>on in the World, as worſhipping God after the pureſt manner, governed by the beſt Laws, and headed by another <hi>David;</hi> when we view the Houſes of God on the one Hand, and the Courts of Humane Judicature on the other, our ſtately Buildings, and our happy Scitua<g ref="char:EOLhyphen"/>tion, far beyond that of <hi>Jeruſalem</hi> of Old, well may it become, not the Subordinate on<g ref="char:EOLhyphen"/>ly, but even the Chief Magiſtrate of the Na<g ref="char:EOLhyphen"/>tion, to command us all to pray for the Peace
+<pb n="5" facs="tcp:33326:6"/> of this Metropolis, as well as it became King <hi>David</hi> to exhort his People to pray for the Peace of <hi>Jeruſalem.</hi>
+            </p>
+            <p n="2">II. And this Directs to the Second Enquiry, and that is, Whom of us does it belong to, to pray for the Peace of <hi>Jeruſalem?</hi>
+            </p>
+            <p n="1">1. To be ſure, the Miniſters of God's Word are to do it in the firſt place. They are ſet apart for that purpoſe, and the Wiſdom of the Nation has appointed them their Maintenance, that they may do it with the leſs diſtraction and greater chearfulneſs. They are the Mouths of the People to God, and their conſtant Buſi<g ref="char:EOLhyphen"/>neſs is in the Prophet <hi>Joel</hi>'s phraſe, to ſtand <hi>betwixt the Porch and the Altar, and cry out, Spare thy People, Good Lord, Spare them, and give not thy Heritage to Confuſion,</hi> Joel 2. 17. Therefore have all Ages and all Nations look'd upon them as the moſt venerable, ſo the moſt uſeful Body of Men, as being the chief Inſtruments under God to keep up a fenſe of Religion in the Minds of the People, without which neither Cities nor Kingdoms wou'd long ſubſiſt, either in Being or Well-being. A Truth which their very Ad<g ref="char:EOLhyphen"/>verſaries, the Atheiſts themſelves, do tacitly ac<g ref="char:EOLhyphen"/>knowledge, when they Brand Religion with the Title of <hi>Prieſt-craft,</hi> and call it no other than <hi>Court-Policy,</hi> a <hi>State-Engine</hi> to awe Mankind in<g ref="char:EOLhyphen"/>to Obedience. For what is this but to pro<g ref="char:EOLhyphen"/>claim to the World, there is this good at leaſt deriv'd from Religion, that it keeps Societies
+<pb n="6" facs="tcp:33326:7"/> from ruſhing into Confuſion; and that there<g ref="char:EOLhyphen"/>fore it behoves ſuch Bodies of Men to conti<g ref="char:EOLhyphen"/>nue the Preachers of it as Part of them, as be<g ref="char:EOLhyphen"/>ing the fitteſt Perſons to inſtil and inculcate the Principles of good Government into them. If then there was no ſuch thing as God, and an After-World, mere Reaſon of State wou'd yet induce the Governours to do this: And when the Miniſters of God's Word are thus convinc'd, and likewiſe ſee clearly into the o<g ref="char:EOLhyphen"/>ther World, how muſt they cry out with the holy Apoſtle, <hi>Wo unto us if we do not preach the Goſpel</hi> 
+               <note n="*" place="margin">Cor. 9.</note>; and conſequently conclude them<g ref="char:EOLhyphen"/>ſelves more immediately concern'd to pray unto God with a Zeal that becomes their Function, That he wou'd bleſs <hi>Jeruſalem</hi> with Peace, and continue it evermore.</p>
+            <p n="2">2. The next in order, and ſuch as it parti<g ref="char:EOLhyphen"/>cularly behoves to joyn in Prayer for the Peace of our <hi>Jeruſalem,</hi> are the Magiſtrates, and thoſe that bear Office in this great Bo<g ref="char:EOLhyphen"/>dy.</p>
+            <p>They are the moſt eminent part of it, and make the brighteſt Figure, both for Wealth and Grandeur; into their Hands the Happineſs of the whole is in a manner devolved, and as they ſmile or frown, ſo the whole unites or wea<g ref="char:EOLhyphen"/>kens. If we view them in their private Capa<g ref="char:EOLhyphen"/>city, they wou'd be in all likelyhood the great<g ref="char:EOLhyphen"/>eſt Winners or the greateſt Loſers: If we view them in their Publick, we ſhall find that as Honour and Conſcience command them to diſ<g ref="char:EOLhyphen"/>charge
+<pb n="7" facs="tcp:33326:7"/> their Places worthily; ſo the higher their Stations are, the greater Glory or the grea<g ref="char:EOLhyphen"/>ter Diſhonour muſt purſue them. As much Gods therefore as Magiſtrates are, for ſo the Scripture graces them with that Reverend <note n="*" place="margin">Exod. 22 8. Thou ſhalt not revile the Gods; i. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Magi<g ref="char:EOLhyphen"/>ſtrates.</note> Title; and no doubt, but Perſons of their Wiſdom and Con<g ref="char:EOLhyphen"/>duct, will conſider the importance of it: As much Gods, I ſay, as Magiſtrates are, they can't think it certainly below them to vail their <hi>Faſces</hi> to the God of Gods, and Lord of Lords, and beg of him, who is God above all, when they are but Men after all, to bleſs them in their Stations, to proſper the Society under their Go<g ref="char:EOLhyphen"/>vernment, and make them a Bleſſing, not a Curſe to it, to give Peace in their days, and ſend Proſperity on <hi>Jeruſalem.</hi> They may imagine it their Province to conſult for the Publick, not to pray for it; let them do that whoſe pecu<g ref="char:EOLhyphen"/>liar Buſineſs it is; But, with ſubmiſſion, as much as it is the Miniſters Duty to pray for the Pub<g ref="char:EOLhyphen"/>lick Safety, 'tis theirs doubtleſs to joyn with them in it: for if ever a time happens when <hi>Noah, Job,</hi> and <hi>Daniel ſhall deliver their own Souls</hi> only <hi>by their Righteouſneſs</hi> 
+               <note n="†" place="margin">Ezek. 1 14, 20.</note>, it muſt be then when Greatneſs is eclips'd by Infidelity, and Men of Renown grow too big to ſtoop to the Almighty.</p>
+            <p n="3">3. The Men of Trade and Commerce are the Perſons, in the third place, who are to pray for the Peace of our <hi>Jeruſalem.</hi>
+            </p>
+            <pb n="8" facs="tcp:33326:8"/>
+            <p>They are free Deniſons of the City, Mem<g ref="char:EOLhyphen"/>bers of it, and reap mighty Advantages by be<g ref="char:EOLhyphen"/>ing ſo. As to their particular Intereſt, that de<g ref="char:EOLhyphen"/>pends moſtly on Fortune, and whom ſhou'd they have recourſe to but to the Almighty, who commands the Winds, and the Sea, and they obey him, but to God, whoſe Providence ſuperintends and governs the World, that his Providence, which is their Inheritance <note n="*" place="margin">
+                  <hi>Providen<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a Divina <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aeredit as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t mea.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h Ger<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n.</note> might turn all things to their good, and crown them with Succeſs. And as they ſtand in Relation to the Publick, when they remember that it's Peace alone that's the Parent of Riches, with<g ref="char:EOLhyphen"/>out which the Society it ſelf wou'd be but in a tottering Condition; Men of their Employ<g ref="char:EOLhyphen"/>ment, who are as it were the Nurſery of Magi<g ref="char:EOLhyphen"/>ſtrates, muſt make it their Buſineſs to pray to the Almighty, by whom Societies are kept in being, that he wou'd bleſs our <hi>Jeruſalem</hi> with Peace and Proſperity. Indeed, there is one thing that may cool their Fervour, and that's a Suppoſal, Their being taken up ſo much in the World, may excuſe them from that abſtracted Buſineſs of Prayer. But do they really believe, without Prayer to God, they can have no right to, nor hopes of the Bleſſings of Providence? Do they imagine it poſſible likewiſe to engage in the World, and not make ſhipwrack of a good Conſcience? Do they ſuppoſe it practica<g ref="char:EOLhyphen"/>ble alſo for the Merchant on the <hi>Change,</hi> the Tradeſman in the Shop, and the Sailer in his Ship, to ſerve the Lord? If they are con<g ref="char:EOLhyphen"/>vinc'd of theſe great Truths, this one thing to
+<pb n="9" facs="tcp:33326:8"/> be ſure they have to do, the ſtronger they find this Temptation to work on them, the more Fervent and Devout to be in Prayer, whilſt they are engaged at it.</p>
+            <p n="4">4. The labouring and lower ſort of Peo<g ref="char:EOLhyphen"/>ple, they are alſo to pray for the Peace of our <hi>Jeruſalem.</hi> And what a glorious ſight wou'd that be to behold the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Multitude, who have hitherto been ſo fa<g ref="char:EOLhyphen"/>mous for Barbarity and Wickedneſs, univer<g ref="char:EOLhyphen"/>ſally influenced with a Spirit of Religion, and the Fear of God? Some may be apt to fanſie it better for ſuch to fiſh in troubled Waters, becauſe they cannot be well lower than they are; but as this is contrary, both to Natural and Revealed Religion, ſo let them try it, when they will, they will ever find more true Comfort, and generally more Ad<g ref="char:EOLhyphen"/>vantage in Times of Peace, than they poſſibly can in Times of Publick Tumult and Diſ<g ref="char:EOLhyphen"/>order. And tho' this were not ſo, yet when they remember they have a God to ſerve, and Souls to ſave, and that they <hi>must needs be ſubject, not only for Wrath but for Conſcience ſake</hi> 
+               <note n="*" place="margin">Rom. 13<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>. How muſt this fix them into a Peace<g ref="char:EOLhyphen"/>ableneſs of Spirit, and make them conclude, if God be no reſpecter of Perſons, but equal<g ref="char:EOLhyphen"/>ly gives Audience to the loweſt of his Crea<g ref="char:EOLhyphen"/>tures as well as the higheſt, provided their Devotions be alike circumſtanced, then they will pray for the Peace of <hi>Jeruſalem,</hi> that that may flouriſh and they live comfortably.</p>
+            <pb n="10" facs="tcp:33326:9"/>
+            <p>And thus I have ſhewn that all ſorts and degrees of Men amongſt us, ought to pray for the Peace of <hi>Jeruſalem,</hi> that all the Inha<g ref="char:EOLhyphen"/>bitants of this great Metropolis ought to pray for the Peace and Proſperity of it.</p>
+            <p n="3">III. I come to the Third Enquiry, How we muſt pray for the Peace of <hi>Jeruſalem.</hi> We muſt pray firſt with Sincere Hearts, and then with United.</p>
+            <p n="1">1. With Sincere Hearts. Our Prayers muſt flow from our very Souls, entirely devoid of all Carnality and Hypocriſie. No Strife, Fa<g ref="char:EOLhyphen"/>ction, or Sedition muſt be entertain'd in our Hearts when we pray; no halting betwixt God and <hi>Baal</hi> 
+               <note n="*" place="margin">Kings 18. 21.</note>; no ſerving God and Mam<g ref="char:EOLhyphen"/>mon <note n="†" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atth. 6. 24.</note> at the ſame time, when we are ſolem<g ref="char:EOLhyphen"/>niſing God's Worſhip. We muſt firſt look upon God as the Publick Parent and Bene<g ref="char:EOLhyphen"/>factour of the World, and then conſider this Metropolis of ours as a Community of Men that can only be rewarded or puniſh'd in this World, as it is a Community; and the Infe<g ref="char:EOLhyphen"/>rence will be, with ſincere and earneſt Minds to addreſs the Publick Parent of the World, That he wou'd be pleaſed to continue to the Publick the Bleſſing of Peace. This muſt be the Inference where ſuch Conſiderations take place; our Tongues and our Hearts will go together, and God will hear us, and <hi>Jeru<g ref="char:EOLhyphen"/>ſalem</hi> ſhall proſper.</p>
+            <p n="2">
+               <pb n="11" facs="tcp:33326:9"/>2. And then in the next place, we ſhall pray unto God as with Sincere, ſo with Uni<g ref="char:EOLhyphen"/>ted Hearts. For wherever theſe Principles are imbibed, That God is the Publick Benefactour of the World, and that Societies, as ſuch, can only be rewarded in this Life, they muſt natu<g ref="char:EOLhyphen"/>rally prompt all that are concern'd, to com<g ref="char:EOLhyphen"/>bine in their Prayers, as one Man, that God, who is one God, may be prevail'd on to give them his Bleſſing: For united Prayer God loves, when divided he diſregards. And whatever ſeveral ways of Worſhip Men may take to ſerve him, in this caſe ſure we may be allow<g ref="char:EOLhyphen"/>ed to be of one Heart, when the Peace of our <hi>Jeruſalem</hi> is become the important Petition. And oh that we could all of us unite and combine, as in this one thing, ſo in the Pub<g ref="char:EOLhyphen"/>lick Worſhip of God! that being the moſt likely way to engage God on our ſide, when we are at Unity in his Service. We are Bre<g ref="char:EOLhyphen"/>thren all, and ſhall we fall out <note n="*" place="margin">Gen. 45.</note>? We are Chriſtians, and will we offer to tear and rend the ſeamleſs Coat of our bleſſed Maſter? the very Infidel Souldiers ſhew'd a greater reſpect, for they caſt Lots for it whoſe it ſhou'd be <note n="†" place="margin">Matt. 27</note>, which was better of the two ſure. And what Advances ought we to make for an Univerſal Union in Religion? How ought we to yield to one another in the Spirit of Meekneſs and Love, and do all that in us lyes, that <hi>Jeru<g ref="char:EOLhyphen"/>ſalem</hi> may be as the Subject of our Prayers, ſo the Church the only Place to offer them up in? And oh that Miniſter and People, the
+<pb n="12" facs="tcp:33326:10"/> Magiſtrate and Subject, wou'd lay this to heart, ſo as to reduce it, if poſſible, into Practice!</p>
+            <p>But this cannot be, ſome will urge, that being no more poſſible to eſtabliſh one uni<g ref="char:EOLhyphen"/>form way of Worſhip amongſt us, then it is to have all of us of the like Face, or the like Stature. But is this abſolutely true, when Chriſt and his Apoſtles do all along ſpeak of one only Church, whereof Chriſt Jeſus is the Head? However, grant that it were ſo, this ſhou'd only teach us to lay aſide our Feuds and Animoſities, to Love as Brethren notwith<g ref="char:EOLhyphen"/>ſtanding, and if we can't do all that we wou'd, to follow St <hi>Paul</hi>'s Advice, <hi>whereunto we have attained, to mind the ſame thing,</hi> Phil. 3. 16. We are of different Judgments and different Perſwaſions, but that muſt be no Bottom for the Eſtrangement of our Affections one from another. <hi>Whereunto we have attained, we muſt mind the ſame thing,</hi> and when the Publick Peace becomes equally the Intereſt of all Par<g ref="char:EOLhyphen"/>ties, well may we all of us be allowed, in this one thing at leaſt, to offer up our Prayers with united Hearts.</p>
+            <p>Let us ſee now the Motives to this pur<g ref="char:EOLhyphen"/>poſe, and they are as great as the Heart of Man can deſire or imagine, Perſonal Proſperity here, and Perſonal Proſperity hereafter.</p>
+            <p>Oh <hi>Pray for the Peace of</hi> Jeruſalem, <hi>they ſhall proſper that</hi> do this! Proſper</p>
+            <p n="1">1. Here. The Miniſters of God's Word ſhall live of the Goſpel, to the Joy of their own Souls, without the Envy of their Neighbours,
+<pb n="13" facs="tcp:33326:10"/> the Magiſtrates ſhall Rule with Honour, the Trader ſhall flouriſh with Wealth, and the Labouring Soul ſubſiſt with Comfort and Con<g ref="char:EOLhyphen"/>tent. All the marks of Joy and Love, of Honour and Wealth, of Eaſe and Comfort, ſhall appear on every Brow, and in every Street; and all this as the juſt Effect of their Sincere and United Devotions. And is not all this Motive big enough to engage us to this end?</p>
+            <p n="2">2. But that in the ſecond place is nothing in compariſon to what <hi>The hereafter</hi> affords. The Pious Miniſter, the Conſciencious Magi<g ref="char:EOLhyphen"/>ſtrate, the Faithful Trader, and the Diligent Servant ſhall find in the other World, Joy without mixture, Honour without Tarniſh, Wealth immarceſſible, and Comfort unſpeaka<g ref="char:EOLhyphen"/>ble; ſuch Joy, ſuch Honour, ſuch Wealth, ſuch Comfort, as varies not like the things of the preſent Life, but endures and encreaſes to all Eternity. This is the Reward, this the Happineſs of ſuch bleſſed Souls in that other and better World. They prayed for the Peace of <hi>Jeruſalem</hi> here, and they enter the <hi>Jeruſalem</hi> above, there to Enjoy and Praiſe God for e<g ref="char:EOLhyphen"/>ver and ever.</p>
+            <p>But then before they arrive at that glori<g ref="char:EOLhyphen"/>ous State, they muſt in this World Love as well as Pray, <hi>Pray for the Peace of</hi> Jeruſalem; but if they would proſper, they muſt Love <hi>Je<g ref="char:EOLhyphen"/>ruſalem</hi> alſo, <hi>Pray for the Peace of</hi> Jeruſalem: <hi>they ſhall proſper that love thee.</hi> They muſt ſhew their Love,</p>
+            <pb n="14" facs="tcp:33326:11"/>
+            <p>Firſt, By preferring the Publick Good be<g ref="char:EOLhyphen"/>fore their own Private Intereſt.</p>
+            <p>Secondly, By eſteeming it an indiſpenſable part of Duty to lay aſide their particular Hu<g ref="char:EOLhyphen"/>mours when the Publick calls on them, and not ſtand idle when they ſee either the Pub<g ref="char:EOLhyphen"/>lick Worſhip of God in danger, or their Country on the Precipice of Ruin and De<g ref="char:EOLhyphen"/>ſtruction, whether that be by Foreign or Do<g ref="char:EOLhyphen"/>meſtick Contrivance.</p>
+            <p>That thing call'd <hi>Self</hi> ſticks ſo cloſe to us, that the very beſt ſeem to be carried away with it, and ſeem to believe themſelves in the right of it alſo; and wou'd to God we did all of us ſo far conſult the Publick but as it really tended to our own private Intereſt! But is it poſſible for Men, who are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <note n="*" place="margin">Vid. Ariſt. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l.</note>, born ſociable Creatures, who know and confeſs they were made not for them<g ref="char:EOLhyphen"/>ſelves alone <note n="§" place="margin">
+                  <hi>Non nobis ſo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n nati ſu<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s.</hi> Plat. in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſt. ad Ar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yt. Tar. Cic. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1. de Offic.</note>, but for the good of Society al<g ref="char:EOLhyphen"/>ſo; is it poſſible for Souls of this God-like make to Poſtpone the Publick, when it en<g ref="char:EOLhyphen"/>terferes with their own private Intereſt? 'Tis true, the Temptation is conſiderable, but what then? 'Tis nothing ſure when the Pub<g ref="char:EOLhyphen"/>lick Safety lyes in the Balance againſt it. The very Heathens have choſe to Sacrifice their Lives for the Preſervation of their Country <note n="*" place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tt. Regulus, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ilaeni, Co<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is, Tellus, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſus</hi>'s Son, <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tius,</hi> &amp;c.</note>, and ſhall not we Chriſtians do as much as they? at leaſt, part with a little paultry Advantage for the Publick Good? The very Eſſence of a Chriſtian is Love; and why elſe do we pray for the Publick
+<pb n="15" facs="tcp:33326:11"/> Peace, unleſs we lov'd it at the ſame time? And can we be ſaid to love that, when our Actions run counter to that nobleſt Quality? That City or Kingdom muſt needs run to ruin where the Publick Counſels are not actu<g ref="char:EOLhyphen"/>ated by a Publick Spirit; and will we offer to bring in <hi>any thing of our ſelves,</hi> when the Preſervation of the Publick is under De<g ref="char:EOLhyphen"/>bate? Let ſuch conſider, that he who made them Members of Society, fix'd this Princi<g ref="char:EOLhyphen"/>ple in their Breaſts, To prefer the Publick Good before their own; that he, who fix'd this Principle in their Breaſts, will ſeverely call them to an account for it one day; That to Sacrifice the Publick to their own Intereſt, is to pull down the Curſes of the whole Community on their Heads: Curſes that muſt haunt them here, and will ſink them hereafter. Let ſuch ſeriouſly conſider theſe things; and then</p>
+            <p>2. In the next place, they will lay aſide likewiſe their particular Humours when the Publick calls on them for their Service.</p>
+            <p>'Tis very unaccountable that Men, who are incorporated into a Community, who by the Benefit of their Freedom have heaped up Riches for themſelves and Families; who be<g ref="char:EOLhyphen"/>ſides are of deep Reaſoning, vaſt Judg<g ref="char:EOLhyphen"/>ment, and a ſurpriſing Conduct; of an ex<g ref="char:EOLhyphen"/>emplary Piety, and an Integrity unexception<g ref="char:EOLhyphen"/>able, ſhall yet after all ſlink away, when they
+<pb n="16" facs="tcp:33326:12"/> are call'd on to bear the Burden of Publick Duty, and chooſe rather to ſuffer any <note n="*" place="margin">This preach'd whilſt ſo many of the Citizens were Fined for Sheriffs.</note> Pecuniary Mulct than engage with it. <q>There are others in abundance fitter for the Employ, and therefore they deſire to be excuſed: The Buſineſs of Religion runs Counter to their Sentiments, and they will not meddle: A peculiar ſort of People carry all before them, and therefore adieu to Publick Buſi<g ref="char:EOLhyphen"/>neſs. But are theſe Suggeſtions ſufficient to</q> ſatisfie their Conſciences, and give them a Diſcharge from the Obligation they owe to their Country? What wou'd have become of the <hi>Roman</hi> Commonwealth, when it was in its Infancy, had <hi>Horatius Cocles</hi> ſtrain'd ſuch a Complement, and not oppos'd his Body ſingly to the Enemy <note n="†" place="margin">
+                  <hi>Ni unus vir. fuiſſet,</hi> Horatius Cocles: <hi>(id. munimentum illo die fertuna urbis Romanae habuit)</hi>—Liv. lib. 2.</note>? What wou'd have become of the <hi>Jewiſh</hi> Na<g ref="char:EOLhyphen"/>tion, had the <note n="‖" place="margin">1 Maccab. cap. 2.</note> 
+               <hi>Maccabees</hi> been thus principled? What wou'd have become of the very Chriſtian Religion <note n="*" place="margin">For ſo I call the Orthodox Faith, that which maintains the Belief of the Eternal and Un<g ref="char:EOLhyphen"/>divided Trinity; in Defence whereof St. <hi>Athanaſius</hi> appear'd againſt the World.</note>, had <hi>A<g ref="char:EOLhyphen"/>thanaſius</hi> been of this temper, had not he been againſt the World, as the World was a<g ref="char:EOLhyphen"/>gainſt him? And what wou'd have become of this very Place and Nati<g ref="char:EOLhyphen"/>on, had the <note n="‖" place="margin">
+                  <hi>Pater Patriae</hi> more truly due to King <hi>William</hi> that to <hi>Auguſtus Caeſar.</hi>
+               </note> Father of our Country ſtood careleſs and tamely by, and not ſtept in to our. De<g ref="char:EOLhyphen"/>liverance?
+<pb n="17" facs="tcp:33326:12"/> Others there may be found per<g ref="char:EOLhyphen"/>haps worthier than thee to diſcharge the Of<g ref="char:EOLhyphen"/>fice; what then? Divine Providence has call'd thee to it, and thou art not to diſpute thy own Worth, but maintain thy Poſt as wor<g ref="char:EOLhyphen"/>thily as thou canſt. The Publick Worſhip of God is in danger; here God himſelf requires thy Aſſiſtance; 'tis for his Honour and Glo<g ref="char:EOLhyphen"/>ry thou appear'ſt in Publick; and who wou'd not ſtand up ſingly in ſuch a Defence? Sup<g ref="char:EOLhyphen"/>poſe the Leading Party of Men were of a different Complexion; this ſhou'd prove ra<g ref="char:EOLhyphen"/>ther a Spur than a Diſcouragement, and make thee therefore appear on the Publick Stage, that thou might'ſt be a Balance to them, that thy Zeal for God, and Love to thy Coun<g ref="char:EOLhyphen"/>try, might if they ſhou'd take wrong Mea<g ref="char:EOLhyphen"/>ſures, ſhame them into the like Zeal and like Love. We ſhall be of different Judgments to the end of the Chapter, but that muſt be no Ground at all for our private Piques, much leſs for the mixing thoſe Private Piques with the Publick Counſels: In ſuch a Caſe, if nothing more can be done, we ſhou'd ra<g ref="char:EOLhyphen"/>ther imitate that Heroick Wiſdom of two Generals we read of <note n="*" place="margin">Them<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtocles &amp; Ariſtides. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Herodot. lib. 8. cap. 79.</note>, who agreed to de<g ref="char:EOLhyphen"/>poſit their former private Diſcords, when they firſt entred on their joynt Command, though
+<pb n="18" facs="tcp:33326:13"/> were conditionally, to take them up again when the Publick Service was over. Were our Country invaded, and we in danger of loſing all, we ſhou'd not then demur about our own Inſufficiency, nor the Company we are engaged with, for the Common Defence; there wou'd be no room for ſuch inferiour Conſiderations: Our Country is in danger, and we our ſelves by conſequence; let us therefore manfully oppoſe the Invader with an Unanimity and Concord that becomes the Lovers of their Country. This wou'd be the Concluſion in ſuch a Caſe; and why ſhou'd not we draw the ſame Inference in that Caſe as in this? Thou art a Member of Society, and thy particular Intereſt is wrapt up in the Publick, thou art therefore to do thy beſt Indeavours to ſerve the Publick. Providence has inabled thee with Wealth and Wiſdom to do it Service, and the Bleſſing was vouch<g ref="char:EOLhyphen"/>ſaf'd on this Condition, whenever thou art commanded, to employ both in the Publick Service.</p>
+            <p>'Tis to be hoped now, whatever Sentiments Men have hitherto had about Publick Duty, they will at length breathe a freer Air, and inſtead of a narrow and confined Spirit, put on a Publick One; lay aſide their particular Humours, and Devote themſelves and their All to the Service of the Publick.</p>
+            <pb n="19" facs="tcp:33326:13"/>
+            <p>'Tis their Honour and their Duty both, and they who are animated with ſuch a Soul, do ſhew indeed their Love to <hi>Jeruſalem,</hi> and they are the fitteſt Perſons to pray for the Peace of it. They endeavour its Proſperity to the utmoſt; and who ſo fit to pray unto God, as they that ſtick not upon a juſt oc<g ref="char:EOLhyphen"/>caſion to lay down their Lives in the Cauſe of God and their Country? Men of this Bravery are above all Men to ſtand in the Gap of the Nations Ruin, and implore Hea<g ref="char:EOLhyphen"/>ven for the Publick Safety. They know that God ſuperintends and diſpoſes of Cities and Kingdoms <note n="*" place="margin">Dan. 2. 21.</note> that he rewards Societies in this Life only, that whatever is done in a City, he doth it himſelf <note n="†" place="margin">Amos 3. 6.</note>; that <hi>the Watchman wa<g ref="char:EOLhyphen"/>keth but in vain, except the Lord keepeth the City</hi> 
+               <note n="‖" place="margin">Pſal. 127. 1.</note> And therefore they make the Publick Welfare part of their Devotions, both in Pub<g ref="char:EOLhyphen"/>lick and Private. Neither Morning nor E<g ref="char:EOLhyphen"/>vening will they fail to beg the Bleſſing of God on themſelves, their Families, and the Publick: And they will promote all they can the Publick Worſhip of the Almighty, that God may alſo hear them from his Holy Place.</p>
+            <p>But why all this Praying, Men of looſe Prin<g ref="char:EOLhyphen"/>ciples will object, when things are as they were, whether we pray or not? To which I muſt crave leave to anſwer, That things wou'd not be even as they are, were it not for the Supplications of ſome devout Souls amongſt
+<pb n="20" facs="tcp:33326:14"/> us. There's indeed but little of Religion, and leſs of the Life of it in Prayer and Pra<g ref="char:EOLhyphen"/>ctice; but ſomewhat there is, or elſe this Roy<g ref="char:EOLhyphen"/>al City had not ſtood till this Day.</p>
+            <p>This <hi>Reaſon</hi> aſſures us: For wherefore does God diſpenſe his National Bleſſings, but for the ſake of the whole who ſerve him, or ſome part of the whole, who ſincerely beg them of him?</p>
+            <p>This <hi>Scripture</hi> imports alſo: For the Hands of <hi>Moſes,</hi> lift up in the poſture of Prayer, were alone able, under God, to overthrow <hi>Amalek</hi> and preſerve <hi>Iſrael</hi> 
+               <note n="†" place="margin">Exod: 17. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1, 12.</note>
+            </p>
+            <p>And this, in fine, <hi>Experience</hi> demonſtrates: For <hi>Nineveh,</hi> tho' an Heathen City, by their Prayers and Tears, had the Power with God to Reverſe the Sentence of their Ruin <note n="*" place="margin">Jon. 3. 10.</note>. And <hi>Jeruſalem</hi> in the Text is now no more, for want of that Piety and Devotion, that flouriſh'd more or leſs, till the Inhabitants had fill'd up the Meaſure of their Iniquities; but when they came to tranſcribe <hi>Sodom</hi> and <hi>Gomorrha</hi> in their Practice, the very City was deſtroy'd, never to be built as before. Tho' <hi>Julian</hi> himſelf attempts it, in deſpite of Om<g ref="char:EOLhyphen"/>nipotence, Fire-balls from Heaven ſhall de<g ref="char:EOLhyphen"/>ſtroy the Workmen, and overthrow that by Night which they built by Day <note n="‖" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Socr. l. 3. c. 20. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 142. Amm. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar. lib. 23. in <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>itio Naz. Orat. 4. P. 111. St. Chryſoſt. Orat. 3. Adverſ. Jud. T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. 1. P. 434, &amp;c.</note>. An Inſtru<g ref="char:EOLhyphen"/>ctive
+<pb n="21" facs="tcp:33326:14"/> as well as terrible Example to all other Cities; eſpecially to this great Metropolis, that may well paſs for another <hi>Jeruſalem,</hi> both for Grandeur and for Wickedneſs too.</p>
+            <p>What Divine Oratory muſt this inſpire in<g ref="char:EOLhyphen"/>to the Hearts of God's Miniſters, and what Reſolutions to become burning and ſhining Lamps in the midſt of ſuch a crooked and perverſe Generation? What Zeal for God's Worſhip muſt this beget in the Publick Ma<g ref="char:EOLhyphen"/>giſtrate, and engage him alſo to employ his Authority and Example in the Suppreſſing of Vice and Encouragement of Religion? And how muſt the People be affected when they conſider that their Prophaneneſs and Immorality may involve both City and Country in one Univerſal Ruin, and that it may be preven<g ref="char:EOLhyphen"/>ted by ſo eaſie a Remedy as their Devotion and their Piety?</p>
+            <p>This will make us all conſider what we are a doing <hi>before our Peace be hid from our Eyes.</hi> This muſt drive us to <hi>the Houſe of Prayer,</hi> and make us petition Heaven with Sincere and U<g ref="char:EOLhyphen"/>nited Hearts. This will make us live as we pray, and ſo turn the Biaſs of our Affections towards the Publick Welfare, as to prefer that before our own Private Intereſt, and Poſtpone all our little Humours to the Pub<g ref="char:EOLhyphen"/>lick Advantage. We are Members of a Chri<g ref="char:EOLhyphen"/>ſtian Community, under the Engagements of Honour, and Conſcience, and Intereſt too, to
+<pb n="22" facs="tcp:33326:15"/> promote its Felicity and Grandeur; therefore do we <hi>pray for the Peace of Jeruſalem,</hi> and live as we pray, and love its Proſperity as we do our own. Therefore do we ſing, with the Royal Pſalmiſt, <hi>Peace be within thy Walls, and Plenteouſneſs within thy Palaces, for my Brethren and Companions ſake, I will now ſay, Peace be within thee. Becauſe of the Houſe of the Lord our God, I will ſeek to do thee Good.</hi>
+            </p>
+            <p>
+               <hi>And may this be the Song, this the En<g ref="char:EOLhyphen"/>deavour of you all, and then our</hi> Jeru<g ref="char:EOLhyphen"/>ſalem <hi>ſhall flouriſh, and ye will be happy.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:33326:15"/>
+            <head>
+               <hi>Books Printed for</hi> Tho. Parkhurſt <hi>at the</hi> Bible and Three Crowns <hi>in</hi> Cheapſide.</head>
+            <p>
+               <hi>Books written by the Reverend Mr.</hi> John Howe.</p>
+            <p>OF Thoughtfulneſs for the Morrow. With an Appendix concerning the immoderate Deſire of fore-knowing things to come.</p>
+            <p>2. The Redeemer's Tears wept over loſt Souls, in a Treatiſe on <hi>Luke</hi> 19. 41, 42. With an Ap<g ref="char:EOLhyphen"/>pendix, wherein ſomewhat is occaſionally diſ<g ref="char:EOLhyphen"/>courſed concerning the Sin againſt the Holy Ghoſt, and how God is ſaid to Will the Salva<g ref="char:EOLhyphen"/>tion of them that periſh.</p>
+            <p>3. Of Charity in Reference to other Mens Sins.</p>
+            <p>4. A Calm and Sober Enquiry concerning the Poſſibility of a Trinity in the Godhead: In Three Letters to a Perſon of Worth.</p>
+            <p>5. A Funeral Sermon for Mrs. <hi>Judith Hamond,</hi> late Wife of Mr. <hi>George Hamond,</hi> Miniſter of the Goſpel.</p>
+            <p>6. A Sermon direction what we are to do, after a ſtrict Enquiry, Whether or no we truly love God?</p>
+            <p>7. A Funeral Sermon for that Faithful and La<g ref="char:EOLhyphen"/>borious Servant of Chriſt, Mr. <hi>Richard Fair<g ref="char:EOLhyphen"/>clough,</hi> (who deceaſed <hi>July</hi> 4. 1682. in the Six<g ref="char:EOLhyphen"/>ty firſt Year of his Age.)</p>
+            <p>8. A Funeral Sermon for Mrs. <hi>Eſther Sampſon,</hi> the late Wife of <hi>Henry Sampſon,</hi> Dr. of Phyſick, who died <hi>Nov.</hi> 24. 1689.</p>
+            <pb facs="tcp:33326:16"/>
+            <p>9. The Carnality of Religious Contention: In two Sermons preach'd at the <hi>Merchants Le<g ref="char:EOLhyphen"/>cture</hi> in <hi>Broadſtreet.</hi>
+            </p>
+            <p>
+               <hi>JEhovah</hi> our Righteouſneſs; or the Juſtificati<g ref="char:EOLhyphen"/>on of Believers, by the Righteouſneſs of Chriſt only: In ſeveral Sermons. By <hi>Samuel Tom<g ref="char:EOLhyphen"/>lins,</hi> M. A.</p>
+            <p>The Church Catechiſm enlarged and explain<g ref="char:EOLhyphen"/>ed in an eaſie and familiar Method, with the Scrip<g ref="char:EOLhyphen"/>ture Proofs annexed thereunto.</p>
+            <p>Sermons and Diſcourſes on ſeveral Divine Sub<g ref="char:EOLhyphen"/>jects. By the late Reverend and Learned <hi>David Clarkson,</hi> B. D. and ſome time Fellow of <hi>Clare-Hall, Cambridge.</hi> With an Epiſtle of Mr. <hi>John Howe,</hi> and Mr. <hi>Mat. Mead.</hi> Fol.</p>
+            <p>A Sermon on reſtoring of the Coin, with re<g ref="char:EOLhyphen"/>ference to the State of the Nation and the Church therein. By a Miniſter of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>A Paraphraſe on the <hi>New Teſtament,</hi> fitted for the uſe of Families. By Mr. <hi>Richard Baxter.</hi> Octavo.</p>
+            <p>A New Creature: Or a ſhort Diſcourſe, open<g ref="char:EOLhyphen"/>ing the Nature, Properties, and Neceſſity of the Great Work of the New Creation, upon the Souls of Men. <hi>Octavo.</hi>
+            </p>
+            <p>The Confirming Work of Religion, and its Great Things made plain by their primary Evi<g ref="char:EOLhyphen"/>dences and Demonſtrations: Whereby the mean<g ref="char:EOLhyphen"/>eſt in the Church may ſoon be made able to ren<g ref="char:EOLhyphen"/>der a Rational Account of their Faith.</p>
+            <pb facs="tcp:33326:16"/>
+         </div>
+      </back>
+   </text>
+</TEI>
